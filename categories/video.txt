@@ -1,0 +1,96 @@
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+studio.youtube.com
+kids.youtube.com
+youtubekids.com
+yt.be
+youtube-nocookie.com
+youtubei.googleapis.com
+youtube.googleapis.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
+googlevideo.com
+vevo.com
+us.vevo.com
+uk.vevo.com
+br.vevo.com
+mx.vevo.com
+ca.vevo.com
+de.vevo.com
+fr.vevo.com
+es.vevo.com
+it.vevo.com
+jp.vevo.com
+mtv.com
+mtvla.com
+mtv.co.uk
+mtv.de
+vh1.com
+vh1classic.com
+cmt.com
+cmt.ca
+tr3s.com   # MTV Tr3s (Latinoamérica)
+dailymotion.com
+dai.ly
+vimeo.com
+player.vimeo.com
+livestream.com   # de Vimeo
+twitch.tv
+m.twitch.tv
+clips.twitch.tv
+youku.com
+iqiyi.com
+bilibili.com
+acfun.cn
+nicovideo.jp
+nicozon.net
+dmm.com
+melon.com
+bugs.co.kr
+genie.co.kr
+flo.co.kr
+mwave.me
+smtown.com
+worldstarhiphop.com
+hotnewhiphop.com
+datpiff.com
+spinrilla.com
+livemixtapes.com
+metacafe.com
+clipfish.de
+myvideo.de
+break.com
+liveleak.com
+godtube.com   # videoclips religiosos
+myspace.com   # aún tiene música y videos
+triller.co
+triller.com
+batanga.com
+batanga.pe
+batanga.com.mx
+claromusica.com
+claromusica.pe
+telcelmusica.com
+musica.com
+musica.com.mx
+musica.net
+musica.pe
+radioplayer.co.uk
+bbc.co.uk/sounds
+bbc.co.uk/radio
+bbc.co.uk/music
+nrj.fr
+funradio.fr
+skyrock.com
+mtvmusic.com
+sndcdn.com        # SoundCloud CDN
+scdn.co           # Spotify CDN
+mzstatic.com      # Apple iTunes/Apple Music CDN (sirve videos)
+cdn-apple.com
+cdn-spotify.com
+cdn-soundcloud.com
+media-amazon.com  # Amazon Music / Prime Video música
